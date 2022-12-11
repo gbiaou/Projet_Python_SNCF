@@ -1,0 +1,5 @@
+NTLK est la librairie historique d’analyse textuelle en Python. Elle existe depuis les années 1990. L’utilisation industrielle du NLP dans le monde de la data-science est néanmoins plus récente et doit beaucoup à la collecte accrue de données non structurées par les réseaux sociaux. Cela a amené à un renouvelement du champ du NLP, tant dans le monde de la recherche que dans sa mise en application dans l’industrie de la donnée.
+
+Le package spaCy est l’un des packages qui a permis cette industrialisation des méthodes de NLP. Conçu autour du concept de pipelines de données, il est beaucoup plus pratique à mettre en oeuvre pour une chaîne de traitement de données textuelles mettant en oeuvre plusieurs étapes de transformation des données.
+
+Sur cette branche, nous reprenons le nuage de mots sur la nature des incidents avec le module spaCy
