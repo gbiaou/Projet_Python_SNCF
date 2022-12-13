@@ -11,4 +11,4 @@ Bienvenue sur le Github présentant notre projet python comptant pour le module 
 ## Membres de l'équipe
 + BIAOU Ghislain 
 + GANSOU Jivanos
-+ CHOHO 
++ CHOHO Yann 
