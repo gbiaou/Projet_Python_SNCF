@@ -13,4 +13,13 @@ Le TER  offre trois types de services :
 le Transilien comme introduit plus haut  est le nom du réseau de trains de banlieue de SNCF Voyageurs desservant principalement les gares d'Île-de-France.
 
 # 3.TGV
-Le TGV (sigle de train à grande vitesse) est une rame automotrice de conception française alimentée par caténaire et propulsée par des moteurs électriques. iL se distingue des autres marques commerciales pour sa vitesse, atteignant régulièrement la vitesse de croisière de 320 km/h.
+Le TGV (sigle de train à grande vitesse) est une rame automotrice de conception française alimentée par caténaire et propulsée par des moteurs électriques. iL se distingue des autres marques commerciales pour sa vitesse, atteignant régulièrement la vitesse de croisière de 320 km/h
+
+
+## définition de la régularité
+
+La régularité TGV tient compte des différentes durées de trajet des clients (aussi appelée composite).
+
+*Un train est considéré à l'heure si son retard au terminus est inférieur à 5min pour un parcours inférieur à 1h30
+*Un train est considéré à l'heure si son retard au terminus est inférieur à 10min pour un parcours entre 1h30 et 3h
+*Un train est considéré à l'heure si son retard au terminus est inférieur à 15min pour un parcours au-delà de 3h
