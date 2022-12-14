@@ -18,7 +18,7 @@ Le TGV (sigle de train à grande vitesse) est une rame automotrice de conception
 
 ## définition de la régularité
 
-La régularité TGV tient compte des différentes durées de trajet des clients (aussi appelée composite).
+La régularité tient compte des différentes durées de trajet des clients (aussi appelée composite).
 
 *Un train est considéré à l'heure si son retard au terminus est inférieur à 5min pour un parcours inférieur à 1h30
 *Un train est considéré à l'heure si son retard au terminus est inférieur à 10min pour un parcours entre 1h30 et 3h
