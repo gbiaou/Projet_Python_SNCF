@@ -37,11 +37,11 @@ tweets = tweepy.Cursor(api.search_tweets, q=keywords, count=100, tweet_mode='ext
 # tweets = api.user_timeline(screen_name=user, count=limit, tweet_mode='extended')
 
 # create DataFrame
-columns = ['User', 'Tweet']
+columns = ['User', 'Tweet','timeTweet','source','retweet']
 data = []
 
 for tweet in tweets:
-    data.append([tweet.user.screen_name, tweet.full_text])
+    data.append([tweet.user.screen_name, tweet.full_text,tweet.created_at,tweet.source,tweet.retweet_count])
 
 df = pd.DataFrame(data, columns=columns)
 
