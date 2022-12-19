@@ -30,7 +30,7 @@ api = tweepy.API(auth)
 
 # search tweets
 keywords = '@SNCF'
-limit=300
+limit=1000
 
 tweets = tweepy.Cursor(api.search_tweets, q=keywords, count=100, tweet_mode='extended').items(limit)
 
@@ -41,7 +41,7 @@ columns = ['User', 'Tweet','timeTweet','source','retweet']
 data = []
 
 for tweet in tweets:
-    data.append([tweet.user.screen_name, tweet.full_text,tweet.created_at,tweet.source,tweet.retweet_count])
+    data.append([tweet.user.screen_name, tweet.full_text, tweet.created_at, tweet.source, tweet.retweet_count])
 
 df = pd.DataFrame(data, columns=columns)
 
