@@ -14,6 +14,7 @@ Le long de ce projet, nous avons essentiellement :
 + présenté le réseau de la SNCF en France continentale en l'occurence les gares et leurs fréquentations ;
 + présenté les incidents de sécurité survenus sur le réseau durant les dernières années ;
 + passé en revue les performance de la SNCF en terme de ponctualité (les TER en l'occurence) ;
++ analysé les sentiments des citoyens à travers les *tweets** ;
 + élaboré un modèle de prévision des taux de régularité sur les prochaines années à l'aide d'un processus `ARIMA`.
 
 
