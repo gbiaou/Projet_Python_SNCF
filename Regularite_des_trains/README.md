@@ -23,3 +23,5 @@ La régularité tient compte des différentes durées de trajet des clients (aus
 *Un train est considéré à l'heure si son retard au terminus est inférieur à 5min pour un parcours inférieur à 1h30
 *Un train est considéré à l'heure si son retard au terminus est inférieur à 10min pour un parcours entre 1h30 et 3h
 *Un train est considéré à l'heure si son retard au terminus est inférieur à 15min pour un parcours au-delà de 3h
+
+**Pour être plus précis dans nos analyse,notre projet ne couvrira que la partie regularité TER**
