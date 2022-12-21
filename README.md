@@ -23,6 +23,8 @@ Le long de ce projet, nous avons essentiellement :
 + **presentation-reseau-sncf** : présentation des gares de la SNCF en France
 + **frequentation-gares** : Présentation et visualisation des données sur la fréquentation des gares de la SNCF 
 + **Decouverte_base_incidents**: prépare la base de données sur les incidents: récupération de la base, description de la base, nettoyage et traitement des valeurs manquantes
++ **Preprocessing_Regularite**: prépare la base de données sur la regularite : récupération de la base, description de la base, nettoyage et traitement des valeurs manquantes, aggregation de données
++ **Analyse_descriptive_Regularite** : Présentation et visualisation des données sur la regularité 
 + **incidents_de_sécurité**: visualisation des données sur les incidents 
 + **analyse_tweet**: brève analyse des sentiments sur la SNCF à partir des tweets récupérés.
 + **prevision_taux_regularite_ter** : Prévision du taux de régularité des TER à partir d'un processus `ARIMA`
