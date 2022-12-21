@@ -19,6 +19,7 @@ Le long de ce projet, nous avons essentiellement :
 
 
 ## Récapitulatif des notebooks et autres fichiers présents sur notre Github
++ **rendu_final** : rendu final résumant  tout ce qui a été fait
 + **presentation-reseau-sncf** : présentation des gares de la SNCF en France
 + **frequentation-gares** : Présentation et visualisation des données sur la fréquentation des gares de la SNCF 
 + **Decouverte_base_incidents**: prépare la base de données sur les incidents: récupération de la base, description de la base, nettoyage et traitement des valeurs manquantes
