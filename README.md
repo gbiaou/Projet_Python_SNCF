@@ -19,9 +19,12 @@ Le long de ce projet, nous avons essentiellement :
 
 
 ## Récapitulatif des notebooks et autres fichiers présents sur notre Github
++ **presentation-reseau-sncf** : présentation des gares de la SNCF en France
++ **frequentation-gares** : Présentation et visualisation des données sur la fréquentation des gares de la SNCF 
 + **Decouverte_base_incidents**: prépare la base de données sur les incidents: récupération de la base, description de la base, nettoyage et traitement des valeurs manquantes
 + **incidents_de_sécurité**: visualisation des données sur les incidents 
 + **analyse_tweet**: brève analyse des sentiments sur la SNCF à partir des tweets récupérés.
++ **prevision_taux_regularite_ter** : Prévision du taux de régularité des TER à partir d'un processus `ARIMA`
 
 ## Membres de l'équipe
 + BIAOU Ghislain 
